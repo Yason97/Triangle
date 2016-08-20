@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\MaxWeight\MaxWeight\bin\Debug\MaxWeight.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\MaxWeight\MaxWeight\bin\Debug\MaxWeight.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\MaxWeight\MaxWeight\obj\Debug\MaxWeight.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\MaxWeight\MaxWeight\obj\Debug\MaxWeight.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\MaxWeight\MaxWeight\obj\Debug\MaxWeight.pdb
