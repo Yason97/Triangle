@@ -20,12 +20,6 @@ namespace MaxWeight
                     temp[i + 1, j + 1] = temp[i, j] + array[i + 1, j + 1];
                 }
             }
-            for(int i = 0; i < size; i++)
-            {
-                for (int j = 0; j < size; j++)
-                    Console.Write("{0,4}",temp[i, j]);
-                Console.WriteLine();
-            }
             int[] ans = new int[size];
             int count = 0; 
             int maxId = 0;
@@ -52,12 +46,6 @@ namespace MaxWeight
                 string[] ss = s[i].Split(' ');
                 for (int j = 0; j < ss.Length; j++)
                     baseArr[i, j] = Convert.ToInt32(ss[j]);
-            }
-            for (int i = 0; i < s.Length; i++)
-            {
-                for (int j = 0; j < s.Length; j++)
-                    Console.Write("{0,4}",baseArr[i, j]);
-                Console.WriteLine();
             }
             Console.WriteLine();
             int[] arr = Path(baseArr);
